@@ -4,6 +4,7 @@
 
 ### AI-Powered Health Assistant for Modern Wellness
 
+[![NovaHealth Demo](https://img.youtube.com/vi/bpKRZfu5UE8/maxresdefault.jpg)](https://youtube.com/shorts/bpKRZfu5UE8)
 [![Flutter](https://img.shields.io/badge/Flutter-3.7.0-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.7.0-0175C2?style=for-the-badge&logo=dart)](https://dart.dev)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
