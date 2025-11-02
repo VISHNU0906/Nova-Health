@@ -3,7 +3,12 @@
     "allow": [
       "Bash(git init:*)",
       "Bash(git remote add:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: NovaHealth - AI-Powered Health Assistant\n\nAdded complete Flutter application with the following features:\n- User authentication (login/signup)\n- Profile management with health tracking options\n- Calorie and workout tracking inputs\n- Multi-language support\n- Health monitoring tools (hydration, period tracker, symptoms)\n- Wellness features (meal timer, stress help, habit tracker)\n- Beautiful UI with custom styling\n- Comprehensive README with demo video provision\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)",
+      "Bash(git branch:*)",
+      "Bash(git fetch:*)",
+      "Bash(gh --version:*)"
     ],
     "deny": [],
     "ask": []
